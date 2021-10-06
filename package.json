@@ -1,0 +1,29 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "simple fullstack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammyebinne/git-test.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Sammy Ebinne <sammyebinne@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammyebinne/git-test/issues"
+  },
+  "homepage": "https://github.com/sammyebinne/git-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
